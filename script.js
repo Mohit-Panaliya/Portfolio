@@ -513,7 +513,7 @@ contactForm.addEventListener("submit", async (e) => {
       contactForm.reset();
     } else {
       document.getElementById("form-response").innerHTML =
-        '<p class="text-red-600">❌ Sending an Email from Github is not working Please Send Via Email or visit '<a href="https://mohit-panaliya.gtree.in">mohit-panaliya.gtree.in</a>'</p>';
+        '<p class="text-red-600">❌ Sending an Email from Github is not working Please Send Via Email or visit </p>  <a href="https://mohit-panaliya.gtree.in">mohit-panaliya.gtree.in </a>';
     }
   } catch (error) {
     document.getElementById("form-response").innerHTML =
