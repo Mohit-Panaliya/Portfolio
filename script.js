@@ -8,7 +8,7 @@ let projects = [
     description:
       "Personal portfolio website built with HTML CSS and Tailwind CSS and Javascript. Features responsive design, project showcase, and contact functionality.",
     image: { icon: "laptop-code", color: "#0d9488" },
-    url: "https://mohit-panaliya.github.io",
+    url: "https://mohit-panaliya.github.io/Portfolio/",
     tags: ["HTML","CSS","tailwindCSS", "portfolio", "responsive"],
   },
   {
